@@ -4,6 +4,7 @@ publishDate: 2025-04-09T00:40:04-07:00
 layout: post
 summary: "Avant de planter, il faut comprendre. Sous nos pieds, ce ne sont pas que des cailloux et de la terre : ce sont des données."
 author: L'Équipe IArbre
+draft: true
 ---
 
 # 🌱Comprendre la plantabilité, peut-on vraiment planter un arbre ici ?
