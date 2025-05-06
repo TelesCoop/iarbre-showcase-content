@@ -1,6 +1,6 @@
 ---
 title: '🌍 PCAET : agir localement pour le climat'
-draft: true
+draft: false
 publishDate: 2025-05-06T09:35:00
 layout: post
 author: Telescoop
