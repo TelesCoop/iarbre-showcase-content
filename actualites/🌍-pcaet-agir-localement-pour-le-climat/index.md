@@ -15,8 +15,8 @@ Il s’organise en 4 grandes étapes :
 
 **2) Stratégie territoriale** Ensuite, on fixe une direction. Où veut-on aller d’ici 2030 ou 2050 ? On définit des objectifs clairs : moins de CO₂, plus d’énergies renouvelables, plus de résilience face aux canicules ou inondations...
 
-**3) Programme d’actions&#32;**Place au concret. Isolation des bâtiments, pistes cyclables, rénovation énergétique, alimentation locale... Chaque territoire choisit des actions adaptées à ses réalités et mobilise ses habitants, ses entreprises, ses élus...
+**3) Programme d'actions** Place au concret. Isolation des bâtiments, pistes cyclables, rénovation énergétique, alimentation locale... Chaque territoire choisit des actions adaptées à ses réalités et mobilise ses habitants, ses entreprises, ses élus...
 
-**4) Suivi et évaluation&#32;**Rien n’est figé. Tous les 6 ans, on fait le point. Les actions fonctionnent elles ? Les objectifs avancent ils ? Il faut corriger, ajuster, améliorer... et surtout impliquer encore.
+**4) Suivi et évaluation** Rien n’est figé. Tous les 6 ans, on fait le point. Les actions fonctionnent elles ? Les objectifs avancent ils ? Il faut corriger, ajuster, améliorer... et surtout impliquer encore.
 
 Le PCAET, c’est un cadre, mais aussi une dynamique collective. Un plan, oui mais surtout une transition portée par et pour le territoire.
