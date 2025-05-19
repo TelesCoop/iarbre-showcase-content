@@ -1,7 +1,7 @@
 ---
 title: 🌳 L'origine du calque de plantabilité
-draft: true
-publishDate: 2025-05-15T10:36:00
+draft: false
+publishDate: 2025-05-19T12:08:00
 layout: post
 author: Equipe Telescoop
 summary: Mais d'où vient ce calque de plantabilité ?
