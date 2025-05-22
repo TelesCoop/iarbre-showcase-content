@@ -14,12 +14,12 @@ L'idée de l'expérimentation vient d'une ambition de la Métropole de Lyon de p
 
 Planter massivement des arbres en ville ? Un beau projet, mais pas si simple à mettre en œuvre !
 
-En ville, on ne plante pas n’importe où il y a beaucoup de contraintes :
-➡️ réseaux souterrains,
-➡️ voirie,
-➡️ voies ferrées,
-➡️ tramways,
-➡️ bâtiments...
+En ville, on ne plante pas n’importe où il y a beaucoup de contraintes :  
+➡️ réseaux souterrains,  
+➡️ voirie,  
+➡️ voies ferrées,  
+➡️ tramways,  
+➡️ bâtiments...  
 
 ### 🌱 Une carte intelligente pour planter là où c’est vraiment possible
 
