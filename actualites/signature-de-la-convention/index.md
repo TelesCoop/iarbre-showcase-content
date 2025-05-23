@@ -27,12 +27,13 @@ La matinée a débuté par un temps presse riche en découvertes !
 
 ✍️ Un moment symbolique a suivi : la signature de la convention par **Camile Legeron** (co-gérante de **Telescoop**) aux côtés de Bruno Bernard et Isabelle von Bueltzingsloewen.
 
-☕ La matinée s'est conclue autour d’un temps convivial et d'échanges avec les médias présents.
-Et bonne nouvelle : les **premières retombées presse** sont déjà là !
-📰 [_Lyon Capitale_](https://www.lyoncapitale.fr/environnement/ia-arbre-comment-la-metropole-de-lyon-va-utiliser-l-ia-pour-adapter-la-ville-au-changement-climatique)
-📰 [_AEFinfo_](https://www.aefinfo.fr/depeche/731716-developpe-a-lyon-le-projet-iarbre-doit-faciliter-les-politiques-de-vegetalisation-du-territoire)
+
+☕ La matinée s'est conclue autour d’un temps convivial et d'échanges avec les médias présents.  
+Et bonne nouvelle : les **premières retombées presse** sont déjà là !  
+📰 [_Lyon Capitale](https://www.lyoncapitale.fr/environnement/ia-arbre-comment-la-metropole-de-lyon-va-utiliser-l-ia-pour-adapter-la-ville-au-changement-climatique)&#32;&#32;_
+📰 [_AEFinfo](https://www.aefinfo.fr/depeche/731716-developpe-a-lyon-le-projet-iarbre-doit-faciliter-les-politiques-de-vegetalisation-du-territoire)&#32;&#32;_
 
 Vous pouvez aussi retrouver toutes les infos dans le [communiqué de presse](https://iarbre.fr/files/CP_22mai.pdf).
 
-✨ **Une belle réussite selon tous.tes** et ce n'est que le début ! Hâte de vous dévoiler la suite du projet IA.rbre !
+✨ **Une belle réussite selon tous.tes** et ce n'est que le début ! Hâte de vous dévoiler la suite du projet IA.rbre !  
 Vous pouvez d'ailleurs vous [abonner à notre newsletter ](https://app.keila.io/forms/nfrm_6b3DZDVg)!
