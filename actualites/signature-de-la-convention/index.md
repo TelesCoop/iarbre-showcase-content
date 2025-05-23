@@ -6,7 +6,7 @@ layout: post
 author: Consortium IA.rbre
 summary: 🌳 Le projet IA.rbre a  célébré publiquement son lancement le 22 mai 2025 à l'Urban Lab au travers de la signature de la convention. Une matinée riche en démos, discours et échanges presse. Une belle étape franchie... et ce n’est que le début !
 ---
-# 🌳 **IA.rbre a pris racine... officiellement !** 🚀
+# 🌳 IA.rbre a pris racine... officiellement ! 🚀
 
 Après des mois de travail en coulisses, le projet **IA.rbre** a été lancé publiquement en novembre 2024. Il était grand temps de le célébrer avec vous ! 🎉
 
@@ -25,14 +25,14 @@ La matinée a débuté par un temps presse riche en découvertes !
 - **Isabelle von Bueltzingsloewen**, Présidente de l’Université Lumière Lyon 2
 - **Bruno Bernard**, Président de la Métropole de Lyon
 
-✍️ Un moment symbolique a suivi : la signature de la convention par **Camile Legeron** (co-gérante de **Telescoop**) aux côtés de Bruno Bernard et Isabelle von Bueltzingsloewen.
+✍️ Un moment symbolique a suivi : la signature de la convention par **Camile Legeron** (co-gérante de **TelesCoop**) aux côtés de Bruno Bernard et Isabelle von Bueltzingsloewen.
 
 ☕ La matinée s'est conclue autour d’un temps convivial et d'échanges avec les médias présents.  
 Et bonne nouvelle : les **premières retombées presse** sont déjà là !  
-📰 [\_Lyon Capitale](https://www.lyoncapitale.fr/environnement/ia-arbre-comment-la-metropole-de-lyon-va-utiliser-l-ia-pour-adapter-la-ville-au-changement-climatique)  \_
-📰 [\_AEFinfo](https://www.aefinfo.fr/depeche/731716-developpe-a-lyon-le-projet-iarbre-doit-faciliter-les-politiques-de-vegetalisation-du-territoire)  \_
+📰 [Lyon Capitale](https://www.lyoncapitale.fr/environnement/ia-arbre-comment-la-metropole-de-lyon-va-utiliser-l-ia-pour-adapter-la-ville-au-changement-climatique)
+📰 [AEFinfo](https://www.aefinfo.fr/depeche/731716-developpe-a-lyon-le-projet-iarbre-doit-faciliter-les-politiques-de-vegetalisation-du-territoire)
 
-Vous pouvez aussi retrouver toutes les infos dans le [communiqué de presse](https://iarbre.fr/files/CP_22mai.pdf).
+Vous pouvez aussi retrouver toutes les infos dans le [communiqué de presse](CP_22mai.pdf).
 
-✨ **Une belle réussite selon tous.tes** et ce n'est que le début ! Hâte de vous dévoiler la suite du projet IA.rbre !  
+✨ **Une belle réussite selon tous·tes** et ce n'est que le début ! Hâte de vous dévoiler la suite du projet IA.rbre !
 Vous pouvez d'ailleurs vous [abonner à notre newsletter ](https://app.keila.io/forms/nfrm_6b3DZDVg)!
