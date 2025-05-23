@@ -33,3 +33,4 @@ Et bonne nouvelle : les **premières retombées presse** sont déjà là !
 📰 [_AEFinfo_](https://www.aefinfo.fr/depeche/731716-developpe-a-lyon-le-projet-iarbre-doit-faciliter-les-politiques-de-vegetalisation-du-territoire)
 
 ✨ **Une belle réussite selon tous.tes** et ce n'est que le début ! Hâte de vous dévoiler la suite du projet IA.rbre !
+Vous pouvez d'ailleurs vous [abonner à notre newsletter ](https://app.keila.io/forms/nfrm_6b3DZDVg)!
