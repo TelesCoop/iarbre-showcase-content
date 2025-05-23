@@ -1,6 +1,6 @@
 ---
 title: ✍️ Signature de la convention du projet IA.rbre
-draft: true
+draft: false
 publishDate: 2025-05-22T16:49:00
 layout: post
 author: Consortium IA.rbre
