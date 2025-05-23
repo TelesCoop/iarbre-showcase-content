@@ -12,7 +12,7 @@ Après des mois de travail en coulisses, le projet **IA.rbre** a été lancé pu
 
 ![Signature la convention IA.rbre le 22 mai](signature_convention.jpg "De gauche à  droite : Bruno Bernard, Isabelle von Bueltzingsloewen, Camille Legeron, Maxime Tribolet et Agnès Sindou-Faurie")
 
-La matinée a débuté par un temps presse riche en découvertes !
+La matinée a débuté par un temps presse riche en découvertes ! 
 🗺️ Une déambulation immersive avec plusieurs temps forts :
 
 - Retour sur la genèse du projet, illustrée par la maquette augmentée et le calque V1 réalisé par [**Exo-Dev**](https://exo-dev.fr/)
@@ -31,6 +31,8 @@ La matinée a débuté par un temps presse riche en découvertes !
 Et bonne nouvelle : les **premières retombées presse** sont déjà là !
 📰 [_Lyon Capitale_](https://www.lyoncapitale.fr/environnement/ia-arbre-comment-la-metropole-de-lyon-va-utiliser-l-ia-pour-adapter-la-ville-au-changement-climatique)
 📰 [_AEFinfo_](https://www.aefinfo.fr/depeche/731716-developpe-a-lyon-le-projet-iarbre-doit-faciliter-les-politiques-de-vegetalisation-du-territoire)
+
+Vous pouvez aussi retrouver toutes les infos dans le [communiqué de presse](https://iarbre.fr/files/CP_22mai.pdf).
 
 ✨ **Une belle réussite selon tous.tes** et ce n'est que le début ! Hâte de vous dévoiler la suite du projet IA.rbre !
 Vous pouvez d'ailleurs vous [abonner à notre newsletter ](https://app.keila.io/forms/nfrm_6b3DZDVg)!
