@@ -10,7 +10,6 @@ summary: 🌳 Le projet IA.rbre a  célébré publiquement son lancement le 22 m
 
 Après des mois de travail en coulisses, le projet **IA.rbre** a été lancé publiquement en novembre 2024. Il était grand temps de le célébrer avec vous ! 🎉
 
-
 ![Signature la convention IA.rbre le 22 mai](signature_convention.jpg "De gauche à  droite : Bruno Bernard, Isabelle von Bueltzingsloewen, Camille Legeron, Maxime Tribolet et Agnès Sindou-Faurie")
 
 La matinée a débuté par un temps presse riche en découvertes !
