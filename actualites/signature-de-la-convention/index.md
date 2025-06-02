@@ -29,10 +29,15 @@ La matinée a débuté par un temps presse riche en découvertes !
 
 ☕ La matinée s'est conclue autour d’un temps convivial et d'échanges avec les médias présents.  
 Et bonne nouvelle : les **premières retombées presse** sont déjà là !  
-📰 [Lyon Capitale](https://www.lyoncapitale.fr/environnement/ia-arbre-comment-la-metropole-de-lyon-va-utiliser-l-ia-pour-adapter-la-ville-au-changement-climatique)
+📰 [BFMTV Lyon](https://www.bfmtv.com/lyon/la-metropole-de-lyon-veut-recourir-a-l-ia-pour-planter-des-arbres_AV-202505230500.html)
+📰 [Lyon Mag](https://www.lyonmag.com/article/144246/la-metropole-de-lyon-veut-faire-appel-a-l-intelligence-artificielle-pour-planter-des-arbres)
+📰 [Banque des Territoires ](https://www.banquedesterritoires.fr/lancement-du-projet-iarbre)
+📰 [Lyon ](https://www.lyoncapitale.fr/environnement/planter-des-arbres-avec-l-intelligence-artificielle-le-pari-de-la-metropole)[Capitale](https://www.lyoncapitale.fr/environnement/planter-des-arbres-avec-l-intelligence-artificielle-le-pari-de-la-metropole)
+📰 [Lyon ](https://www.lyoncapitale.fr/environnement/planter-des-arbres-avec-l-intelligence-artificielle-le-pari-de-la-metropole)[Capitale](https://www.lyoncapitale.fr/environnement/planter-des-arbres-avec-l-intelligence-artificielle-le-pari-de-la-metropole)
+📰 [Lyon Entreprise](https://www.lyon-entreprises.com/actualites/article/la-metropole-de-lyon-lance-ia-rbre-une-ia-frugale-pour-piloter-la-transition-ecologique-des-territoires)
 📰 [AEFinfo](https://www.aefinfo.fr/depeche/731716-developpe-a-lyon-le-projet-iarbre-doit-faciliter-les-politiques-de-vegetalisation-du-territoire)
 
-Vous pouvez aussi retrouver toutes les infos dans le [communiqué de presse](CP_22mai.pdf).
+Vous pouvez aussi retrouver toutes les infos dans le [communiqué de presse](https://CP_22mai.pdf).
 
 ✨ **Une belle réussite selon tous·tes** et ce n'est que le début ! Hâte de vous dévoiler la suite du projet IA.rbre !
 Vous pouvez d'ailleurs vous [abonner à notre newsletter ](https://app.keila.io/forms/nfrm_6b3DZDVg)!
