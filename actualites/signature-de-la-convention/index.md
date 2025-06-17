@@ -1,7 +1,7 @@
 ---
 title: ✍️ Signature de la convention du projet IA.rbre
 draft: false
-publishDate: 2025-22-05T16:49:00
+publishDate: 2025-05-22T16:49:00
 layout: post
 author: Consortium IA.rbre
 summary: 🌳 Le projet IA.rbre a  célébré publiquement son lancement le 22 mai 2025 à l'Urban Lab au travers de la signature de la convention. Une matinée riche en démos, discours et échanges presse. Une belle étape franchie... et ce n’est que le début !

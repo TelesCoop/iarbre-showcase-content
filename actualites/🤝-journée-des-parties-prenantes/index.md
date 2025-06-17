@@ -1,7 +1,7 @@
 ---
 title: 🤝 Journée des Parties Prenantes
 draft: false
-publishDate: 2025-17-06T09:00:00
+publishDate: 2025-06-17T09:00:00
 layout: post
 author: TelesCoop
 summary: Présentation d'IA.rbre sur la thématique de l'eau à l'occasion de la Journée des Parties Prenantes
