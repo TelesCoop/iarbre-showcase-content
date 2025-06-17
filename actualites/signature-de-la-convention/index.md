@@ -1,7 +1,7 @@
 ---
 title: ✍️ Signature de la convention du projet IA.rbre
 draft: false
-publishDate: 2025-05-22T16:49:00
+publishDate: 2025-22-05T16:49:00
 layout: post
 author: Consortium IA.rbre
 summary: 🌳 Le projet IA.rbre a  célébré publiquement son lancement le 22 mai 2025 à l'Urban Lab au travers de la signature de la convention. Une matinée riche en démos, discours et échanges presse. Une belle étape franchie... et ce n’est que le début !
@@ -32,7 +32,7 @@ Et bonne nouvelle : les **premières retombées presse** sont déjà là !
 📰 [BFMTV Lyon](https://www.bfmtv.com/lyon/la-metropole-de-lyon-veut-recourir-a-l-ia-pour-planter-des-arbres_AV-202505230500.html)  
 📰 [Le Progrès](https://www.leprogres.fr/economie/2025/05/24/quand-l-ia-sert-a-(mieux)-planter-des-arbres)  
 📰 [Lyon Mag](https://www.lyonmag.com/article/144246/la-metropole-de-lyon-veut-faire-appel-a-l-intelligence-artificielle-pour-planter-des-arbres)  
-📰 [Banque des Territoires ](https://www.banquedesterritoires.fr/lancement-du-projet-iarbre) 
+📰 [Banque des Territoires ](https://www.banquedesterritoires.fr/lancement-du-projet-iarbre)  
 📰 [Lyon ](https://www.lyoncapitale.fr/environnement/planter-des-arbres-avec-l-intelligence-artificielle-le-pari-de-la-metropole)[Capitale](https://www.lyoncapitale.fr/environnement/planter-des-arbres-avec-l-intelligence-artificielle-le-pari-de-la-metropole)  
 📰 [Lyon ](https://www.lyoncapitale.fr/environnement/planter-des-arbres-avec-l-intelligence-artificielle-le-pari-de-la-metropole)[Capitale](https://www.lyoncapitale.fr/environnement/planter-des-arbres-avec-l-intelligence-artificielle-le-pari-de-la-metropole)  
 📰 [Lyon Entreprise](https://www.lyon-entreprises.com/actualites/article/la-metropole-de-lyon-lance-ia-rbre-une-ia-frugale-pour-piloter-la-transition-ecologique-des-territoires)  
