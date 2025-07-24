@@ -72,6 +72,3 @@ Pour toute question sur le projet ou proposition de collaboration :
 **Email :** contact@telescoop.fr  
 **Site web :** [iarbre.fr](https://iarbre.fr)
 
----
-
-*Mise à jour : {{ now.Format "January 2006" }}*
