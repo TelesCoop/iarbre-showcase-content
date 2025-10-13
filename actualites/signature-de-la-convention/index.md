@@ -1,22 +1,22 @@
 ---
-title: ✍️ Signature de la convention du projet IA.rbre
+title: ✍️ Signature de la convention du projet IA·rbre
 draft: false
 publishDate: 2025-05-22T16:49:00
 layout: post
-author: Consortium IA.rbre
-summary: 🌳 Le projet IA.rbre a  célébré publiquement son lancement le 22 mai 2025 à l'Urban Lab au travers de la signature de la convention. Une matinée riche en démos, discours et échanges presse. Une belle étape franchie... et ce n’est que le début !
+author: Consortium IA·rbre
+summary: 🌳 Le projet IA·rbre a célébré publiquement son lancement le 22 mai 2025 à l'Urban Lab au travers de la signature de la convention. Une matinée riche en démos, discours et échanges presse. Une belle étape franchie... et ce n’est que le début !
 ---
-# 🌳 IA.rbre a pris racine... officiellement ! 🚀
+# 🌳 IA·rbre a pris racine... officiellement ! 🚀
 
-Après des mois de travail en coulisses, le projet **IA.rbre** a été lancé publiquement en novembre 2024. Il était grand temps de le célébrer avec vous ! 🎉
+Après des mois de travail en coulisses, le projet **IA·rbre** a été lancé publiquement en novembre 2024. Il était grand temps de le célébrer avec vous ! 🎉
 
-![Signature la convention IA.rbre le 22 mai](signature_convention.jpg "De gauche à  droite : Bruno Bernard, Isabelle von Bueltzingsloewen, Camille Legeron, Maxime Tribolet et Agnès Sindou-Faurie")
+![Signature la convention IA·rbre le 22 mai](signature_convention.jpg "De gauche à  droite : Bruno Bernard, Isabelle von Bueltzingsloewen, Camille Legeron, Maxime Tribolet et Agnès Sindou-Faurie")
 
 La matinée a débuté par un temps presse riche en découvertes !   
 🗺️ Une déambulation immersive avec plusieurs temps forts :
 
 - Retour sur la genèse du projet, illustrée par la maquette augmentée et le calque V1 réalisé par [**Exo-Dev**](https://exo-dev.fr/)
-- Présentation des premières avancées de la [plateforme **IA.rbre**](https://carte.iarbre.fr) 🌿
+- Présentation des premières avancées de la [plateforme **IA·rbre**](https://carte.iarbre.fr) 🌿
 - Démonstration du **calculateur d’[itinéraires fraîcheur & pollen](https://cartes.lyon.fr/lieux-et-parcours-frais/)** de la Métropole 🌬️🌸
 
 🎤 Trois figures institutionnelles nous ont ensuite honoré de leurs prises de parole :
@@ -40,5 +40,5 @@ Et bonne nouvelle : les **premières retombées presse** sont déjà là !
 
 Vous pouvez aussi retrouver toutes les infos dans le [communiqué de presse](https://CP_22mai.pdf).
 
-✨ **Une belle réussite selon tous·tes** et ce n'est que le début ! Hâte de vous dévoiler la suite du projet IA.rbre !
+✨ **Une belle réussite selon tous·tes** et ce n'est que le début ! Hâte de vous dévoiler la suite du projet IA·rbre !
 Vous pouvez d'ailleurs vous [abonner à notre newsletter ](https://app.keila.io/forms/nfrm_6b3DZDVg)!

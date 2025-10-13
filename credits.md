@@ -2,7 +2,7 @@
 title: Crédits
 draft: false
 layout: page
-description: Remerciements et crédits du projet IA.rbre
+description: Remerciements et crédits du projet IA·rbre
 ---
 
 # Crédits

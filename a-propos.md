@@ -2,14 +2,14 @@
 title: À propos
 draft: false
 layout: page
-description: En savoir plus sur le projet IA.rbre et ses objectifs
+description: En savoir plus sur le projet IA·rbre et ses objectifs
 ---
 
-# À propos du projet IA.rbre
+# À propos du projet IA·rbre
 
 ## Mission
 
-Le projet **IA.rbre** vise à enraciner la résilience climatique des territoires en cultivant les données. Notre mission est de fournir aux collectivités territoriales des outils innovants pour optimiser la résilience des territoires dans le contexte du changement climatique à l'aide de la végétalisation, déimperméabilisation et réduction des îlots de chaleur.
+Le projet **IA·rbre** vise à enraciner la résilience climatique des territoires en cultivant les données. Notre mission est de fournir aux collectivités territoriales des outils innovants pour optimiser la résilience des territoires dans le contexte du changement climatique à l'aide de la végétalisation, déimperméabilisation et réduction des îlots de chaleur.
 
 ## Objectifs
 
@@ -40,4 +40,4 @@ Le projet est actuellement déployé sur la **Métropole de Lyon**, territoire d
 
 ---
 
-*Le projet IA.rbre est soutenu par le plan France 2030 et financé par la Caisse des Dépôts.*
+*Le projet IA·rbre est soutenu par le plan France 2030 et financé par la Caisse des Dépôts.*
