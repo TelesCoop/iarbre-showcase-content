@@ -8,7 +8,7 @@ summary: La méthodologie du calque de plantabilité a été mise au point par [
 ---
 ## L'origine du calque
 
-La question de base qui avait été posée au gestionnaire d'espace public est "Qu'est ce qui fait qu'il est facile ou difficile de planter un arbre sur l'espace public ?". Cette question a permis de lister un certain nombre de \*\*facteur.  \*\*
+La question de base qui avait été posée au gestionnaire d'espace public est "Qu'est ce qui fait qu'il est facile ou difficile de planter un arbre sur l'espace public ?". Cette question a permis de lister un certain nombre de **facteur.**
 
 Il y a eu ensuite un travail collaboratif toujours des gestionnaires d'espace publics pour pondérer ces facteurs entre `-5` et `+5`. `+5` étant un facteur très favorisant et `-5` un facteur absolument bloquant. La transformation d'une zone est envisagée, ainsi une place de stationnement est un facteur bloquant mais pas absolument bloquant comme peut l'être un bâtiment ou le Rhône.
 Ces facteurs ont ensuite été traduit en données existantes.
