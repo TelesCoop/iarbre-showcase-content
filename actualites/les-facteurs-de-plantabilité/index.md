@@ -8,32 +8,40 @@ summary: La méthodologie du calque de plantabilité a été mise au point par [
 ---
 ## L'origine du calque
 
-La question de base qui avait été posée au gestionnaire d'espace public est "Qu'est ce qui fait qu'il est facile ou difficile de planter un arbre sur l'espace public ?". Cette question a permis de lister un certain nombre de **facteur.**
+La question intiale posée aux gestionnaires d'espaces publics était _"Qu'est ce qui fait qu'il est facile ou difficile la plantation sur l'espace public ?"_. Cette interrogation a permis de d'identifier un certain nombre de **facteurs.**
 
-Il y a eu ensuite un travail collaboratif toujours des gestionnaires d'espace publics pour pondérer ces facteurs entre `-5` et `+5`. `+5` étant un facteur très favorisant et `-5` un facteur absolument bloquant. La transformation d'une zone est envisagée, ainsi une place de stationnement est un facteur bloquant mais pas absolument bloquant comme peut l'être un bâtiment ou le Rhône.
-Ces facteurs ont ensuite été traduit en données existantes.
+Un travail collaboratif a ensuite été mené avec ces mêmes gestionnaires pour pondérer chaque facteur sur une échelle entre `-5` et `+5`. `+5` étant un facteur très favorisant et `-5` un facteur absolument bloquant. Par exemple, un parking est un facteur bloquant mais pas absolument bloquant comme peut l'être un bâtiment ou le fleuve Rhône.
+Ces facteurs ont ensuite été traduits en données existantes.
 
 ![Facteurs influençant la plantabilité](plantability_factors_weights.png "Facteurs influençant la plantabilité")
 
 ## Influence des facteurs sur le score de plantabilité
 
-Il y a 35 facteurs différents ce qui rend l'analyse directe un peu plus difficile. C'est pourquoi nous avons appliqué sur les données une [analyse en composantes principales (ACP)](https://fr.wikipedia.org/wiki/Analyse_en_composantes_principales).  L'ACP va nous permettre d'identifier des groupes de facteurs importants dans les données et qui fonctionnent ensemble (ou en opposé). Nous verrons ensuite le lien entre ces composantes principales et la plantabilité.
+Avec 35 facteurs distinces,l'analyse directe s'avère complexe. Pour simplifier, nous avons appliqué sur les données une [analyse en composantes principales (ACP)](https://fr.wikipedia.org/wiki/Analyse_en_composantes_principales). L’ACP permet d’identifier des groupes de facteurs corrélés, qui agissent ensemble (ou en opposition). Dans une second temps, nous analysons leur lien avec la plantabilité.
 
 ### Les axes principaux dans les données
 
-On va chercher dans les données des nouveaux axes, des combinaisons linéaires de facteurs, qui permettent de conserver l'essentiel de l'information. Ces combinaisons de facteurs (leur somme pondérée) sont indépendants entre eux.
-Ce qui va nous permettre d'identifier des groupes de facteurs qui expliquent bien la structure des données et ces groupes seront distincts. Cette première analyse est complètement indépante de la plantabilité mais renseigne juste sur la structure des données en tant que tel.
+L’ACP a permis de définir de nouveaux axes, des combinaisons linéaires de facteurs, qui conservent l’essentiel de l’information tout en étant indépendants les uns des autres. Ces axes révèlent des groupes de facteurs expliquant la structure des données, indépendamment de la plantabilité.
 
 ![Les deux axes principales dans les données](plantability_pca_components.png "Les deux axes principales dans les données")
 
-On a un premier groupe qui explique pour 7% la variance des données et qui contient principalement les réseaux urbains. Dans ce groupe les réseaux souterrains ERDF, assainissement et réseaux de gazs sont les plus importants, on retrouve ensuite les réseaux de transport en surface. On voit aussi qu'il y a les espace agricoles mais avec une contribution négative, cela veut dire que cette variable évolue de manière opposée aux autres.
-Dans le 2ème groupe, les variables les plus importantes sont les bâtiments et les facades.
+**Premier groupe (7 % de la variance)** : Ce groupe est principalement lié aux **réseaux urbains** :
 
-On identifie donc deux types de zone très présentes dans les données : des zones avec des réseaux urbains et des zones bâties. Ce n'est pas très surprenant vu que l'on s'intéresse à la Métropole de Lyon.
+- Réseaux souterrains (ERDF, assainissement, gaz),
+- Réseaux de transport en surface. Les espaces agricoles y apparaissent avec une contribution négative, indiquant une évolution opposée aux autres variables.
+
+
+**Deuxième groupe** : Les variables dominantes sont les **bâtiments** et les **façades**.
+
+Ces résultats mettent en évidence deux types de zones prédominantes dans les données :
+
+- Les zones à forte densité de réseaux urbains,
+- Les zones bâties. 
+
+Cela n'est pas surprenant, étant donné que l'étude porte sur la Métropole de Lyon.
 
 ### Prédiction de la plantabilité
 
-![Pouvoir prédictif des composantes principales](plantability_r2.png "Pouvoir prédictif des composantes principales")
+![Pouvoir prédictif des composantes principales](plantability_r2.png "Pouvoir prédictif des composantes principales")En se basant uniquement sur les **deux premières composantes principales** (qui combinent chacune une dizaine de facteurs), **66% du score de plantabilité** est expliqué. L'ajout de composantes supplémentaires apporte des gains moindres en termes d'explicabilité.
 
-On voit qu'en ne prennant que les composantes principales 1 et 2, qui sont elles même des combinaisons d'une dizaine de facteurs. On explique 66% du score de plantabilité. L'ajout de composantes supplémentaires apporte beaucoup moins d'explicabilité.
-La composante 2, celle liée aux bâtiments est celle qui explique le plus de la plantabilité. Ce qui veut dire que le facteur principal qui va bloquer la plantation sur les 533.7km2 de la Métropole de Lyon est le bâti. Ce sera ensuite les réseaux urbains qui seront un frein à la plantation.
+**La composante 2,** liée aux bâtiments, est celle qui influence le plus la plantabilité. Cela signifie que le **bâti** est le principal obstacle à la plantation d'arbres sur les **533,7 km²** de la Métropole de Lyon, suivi par les **réseaux urbains,** qui constituent un frein supplémentaire.
