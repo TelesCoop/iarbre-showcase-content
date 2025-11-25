@@ -1,6 +1,6 @@
 ---
 title: 📊 Analyse des facteurs de plantabilité
-draft: true
+draft: false
 publishDate: 2025-11-25T16:33:00
 layout: post
 author: L'équipe IA·rbre
