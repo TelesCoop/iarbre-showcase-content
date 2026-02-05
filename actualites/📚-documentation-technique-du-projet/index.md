@@ -12,7 +12,7 @@ summary: La documentation technique du projet est accessible sur docs.iarbre.fr 
 Notre code est disponible sur notre [GitHub](https://github.com/TelesCoop/iarbre) de manière publique et en open-source (license [GPLv3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)). Cela ne saurait être suffisant sans une documentation technique  pour accompagner les audits et réutilisations.
 Vous pouvez donc la retrouver sur [docs.iarbre.fr](https://docs.iarbre.fr/).
 
-![](Capture%20d%27%C3%A9cran%202026-02-05%20114632.png)
+[![Documentation technique du projet](Capture%20d%27%C3%A9cran%202026-02-05%20114632.png)](https://docs.iarbre.fr/)
 
 ⚙️ Dans la section [_Méthodologie_](https://docs.iarbre.fr/methodology/data/) vous trouverez des descriptifs précis des méthodes et données qui ont été utilisées pour produire les différentes calques.
 
