@@ -6,11 +6,16 @@ layout: post
 author: L'équipe IA.rbre
 summary: Quelles données et méthodes pour produire les différentes calques ?
 ---
-Le projet IA.rbre se fait dans une démarche ouverte, explicable et réplicable. 
 
-C'est pourquoi nous documentons nos [méthodologies](https://docs.iarbre.fr/methodology/vulnerability/) de créations de données. 
+**Méthodologie des créations des calques**
 
-Ainsi pour le calque de plantabilité vous pouvez retrouver par exemple un [tableau récapitualif](https://docs.iarbre.fr/methodology/plantability/#tableau-recapitulatif) des données que nous utilisons ainsi que la source. 
+Le projet IA.rbre se fait dans une démarche ouverte, explicable et réplicable.
+
+C'est pourquoi nous documentons nos [méthodologies](https://docs.iarbre.fr/methodology/vulnerability/) de créations de données.
+
+![Méthodologie des créations des calques](Capture%20d%27%C3%A9cran%202026-02-05%20115144.png)
+
+Ainsi pour le calque de plantabilité vous pouvez retrouver par exemple un [tableau récapitualif](https://docs.iarbre.fr/methodology/plantability/#tableau-recapitulatif) des données que nous utilisons ainsi que la source.
 
 | Nom | Facteur | Source | Lien |
 | --- | --- | --- | --- |
@@ -42,9 +47,9 @@ Ainsi pour le calque de plantabilité vous pouvez retrouver par exemple un [tabl
 | Station autopartage | Auto-partage | Territoire Infrastructures | Service voirie |
 | Complément à Fibre Grand Lyon open-source | Réseau fibre | Territoire Infrastructures | Service voirie |
 
-Vous pouvez aussi trouver des informations sur la [pondération](https://docs.iarbre.fr/methodology/plantability/#ponderation-des-facteurs) de ces différentes données. 
+Vous pouvez aussi trouver des informations sur la [pondération](https://docs.iarbre.fr/methodology/plantability/#ponderation-des-facteurs) de ces différentes données.
 
-Nous avons [des tableaux similaires](https://docs.iarbre.fr/methodology/data/#tableau-recapitulatif) avec explications pour les 3 facteurs de la la vulnérabilité à la chaleur. 
-Nous avons aussi rédigé des [explications](https://docs.iarbre.fr/methodology/lcz/#arbre-de-decision) sur la méthode du CEREMA de production des Zones Climatiques Locales (ZCL). 
+Nous avons [des tableaux similaires](https://docs.iarbre.fr/methodology/data/#tableau-recapitulatif) avec explications pour les 3 facteurs de la la vulnérabilité à la chaleur.
+Nous avons aussi rédigé des [explications](https://docs.iarbre.fr/methodology/lcz/#arbre-de-decision) sur la méthode du CEREMA de production des Zones Climatiques Locales (ZCL).
 
 Si vous aviez encore d'autres questions, n'hésitez pas à nous contacter sur contact@telescoop.fr pour que l'on puisse en discuter !
