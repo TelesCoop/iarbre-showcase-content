@@ -6,9 +6,12 @@ layout: post
 author: L'équipe IA·rbre
 summary: La méthodologie du calque de plantabilité a été mise au point par [Exo-Dev](https://exo-dev.fr/) et [ERASME](https://erasme.org). Nous revenons ici dessus au travers d'une analyse statistique très simple.
 ---
+
 ## L'origine du calque
 
 La question intiale posée aux gestionnaires d'espaces publics était _"Qu'est ce qui fait qu'il est facile ou difficile la plantation sur l'espace public ?"_. Cette interrogation a permis de d'identifier un certain nombre de **facteurs.**
+
+![Origine du calque](mock7.jpg)
 
 Un travail collaboratif a ensuite été mené avec ces mêmes gestionnaires pour pondérer chaque facteur sur une échelle entre `-5` et `+5`. `+5` étant un facteur très favorisant et `-5` un facteur absolument bloquant. Par exemple, un parking est un facteur bloquant mais pas absolument bloquant comme peut l'être un bâtiment ou le fleuve Rhône.
 Ces facteurs ont ensuite été traduits en données existantes.
@@ -30,13 +33,12 @@ L’ACP a permis de définir de nouveaux axes, des combinaisons linéaires de fa
 - Réseaux souterrains (ERDF, assainissement, gaz),
 - Réseaux de transport en surface. Les espaces agricoles y apparaissent avec une contribution négative, indiquant une évolution opposée aux autres variables.
 
-
 **Deuxième groupe** : Les variables dominantes sont les **bâtiments** et les **façades**.
 
 Ces résultats mettent en évidence deux types de zones prédominantes dans les données :
 
 - Les zones à forte densité de réseaux urbains,
-- Les zones bâties. 
+- Les zones bâties.
 
 Cela n'est pas surprenant, étant donné que l'étude porte sur la Métropole de Lyon.
 
