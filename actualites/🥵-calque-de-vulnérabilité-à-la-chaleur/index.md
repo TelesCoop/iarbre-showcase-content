@@ -13,7 +13,7 @@ summary: 🌡️ Face aux vagues de chaleur, comment identifier les zones les pl
 
 Le dérèglement climatique intensifie les épisodes de chaleur extrême. Pour aider les acteurs publics à mieux cibler les besoins d’adaptation, un calque de vulnérabilité à la chaleur a été conçu pour la Métropole de Lyon.
 
-![](mock9.jpg)
+![Calque de Vulnérabilité à la chaleur](mock9.jpg)
 
 📊 La donnée a été produite par Maurine Di Tomasso, cheffe de projet Plan Climat à la Métropole de Lyon, à partir d’une méthodologie de l’Institut Paris Région, qu’elle a adaptée et simplifiée pour une lecture locale au territoire de la Métropole de Lyon.
 
@@ -21,7 +21,7 @@ Chez TelesCoop, nous avons conçu une interface cartographique interactive renda
 
 🧩 Chaque zone est cliquable et ouvre un panneau de contexte détaillé, permettant d’explorer les trois dimensions de la vulnérabilité à la chaleur :
 
-- **L’exposition **
+- **L’exposition**
     - **La difficulté à faire face**
     - **La sensibilité&#160;**
 
@@ -33,7 +33,7 @@ Chez TelesCoop, nous avons conçu une interface cartographique interactive renda
 ](https://carte.iarbre.fr/vulnerability/14/45.75773/4.85377)
 
 [
-](https://carte.iarbre.fr/vulnerability/14/45.75773/4.85377)**📢 Votre avis compte !  **
+](https://carte.iarbre.fr/vulnerability/14/45.75773/4.85377)\*\*📢 Votre avis compte !  \*\*
 
 Vous avez testé la carte ? Aidez-nous à l’améliorer en répondant à ce court questionnaire de retour :
 
