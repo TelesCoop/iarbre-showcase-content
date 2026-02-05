@@ -6,16 +6,17 @@ layout: post
 author: Telescoop
 summary: Réduire les émissions, améliorer l’air, s’adapter au climat… Le Plan Climat Air Energie Territorial (PCAET), c’est le plan d’action local pour éviter l'ingérable et gérer l'inévitable
 ---
+
 # 🌍 PCAET : agir localement pour le climat
-
-
 
 Face au dérèglement climatique, le  Plan Climat Air Energie Territorial (PCAET) est la réponse locale pour éviter l’ingérable et gérer l’inévitable.
  Chaque métropole de +20 000 habitant doit en rédiger un. Le but ? Réduire les émissions de gaz à effet de serre, améliorer l’air, s’adapter aux changements à venir... et impliquer tout le monde.
 
+![](plan.png)
+
 Il s’organise en 4 grandes étapes :
 
-**1) Diagnostic&#32;** On commence par observer. Quelle est la qualité de l’air ? D’où viennent les émissions ? Quelles sont les consommations d’énergie ? Quels risques liés au climat ? Ce bilan sert à comprendre la situation du territoire.
+**1) Diagnostic ** On commence par observer. Quelle est la qualité de l’air ? D’où viennent les émissions ? Quelles sont les consommations d’énergie ? Quels risques liés au climat ? Ce bilan sert à comprendre la situation du territoire.
 
 **2) Stratégie territoriale** Ensuite, on fixe une direction. Où veut-on aller d’ici 2030 ou 2050 ? On définit des objectifs clairs : moins de CO₂, plus d’énergies renouvelables, plus de résilience face aux canicules ou inondations...
 
