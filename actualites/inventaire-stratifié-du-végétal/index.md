@@ -24,6 +24,8 @@ Nous utilisons d'un côté la classification des nuages de points LIDAR et par a
 
  La précision de la classification, taille d'un pixel, est un carré de **80cmsx80cms**. Cette résolution a été choisie car le modèle FLAIR-HUB a été entraîné sur des images à cette résolution.
 
+![](mock3.jpg)
+
 ## Limites
 
 La qualité du résultat est très dépendante du LIDAR qui reste la meilleure manière de classifier la végétation, hors zones herbacées, de manière précise (résolution de l'ordre du mètre). La métropole de Lyon produit une couverture du territoire en THD (100 points par m2 en zone urbaine dense et 30 ailleurs) ce qui permet une classification très précise. En zone urbaine dense, c'est parfois trop car on a des points qui traversent le couvert arboré et se retrouvent classés en zone herbacée qui est en dessous. Comme évoqué plus haut, le LIDAR pert en précision dans les zones proches des bâtiments.
