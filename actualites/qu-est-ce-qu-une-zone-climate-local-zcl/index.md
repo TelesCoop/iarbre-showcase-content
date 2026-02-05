@@ -1,14 +1,17 @@
 ---
-title: Qu'est ce qu'une Zone climatique Locale (ZCL) ?
+title: 🔍 Qu'est ce qu'une Zone climatique Locale (ZCL) ?
 draft: false
 publishDate: 2025-04-25T12:42:00
 layout: post
 author: Telescoop
 summary: Les ZCLs sont un concept centrale pour parler de chaleur en ville mais comment sont elles définies ?
 ---
+
 # Qu'est ce qu'une Zone climatique Locale (ZCL) ?
 
 La **Zone Climatique Locale** (ZCL) est un concept introduit par Stewart et Oke dans un article scientifique de 2012. Il revient fréquemment lorsqu'on parle de surchauffe urbaine.
+
+![Qu'est ce qu'une Zone climatique Locale](Capture%20d%27%C3%A9cran%202026-02-05%20114051.png)
 
 Le terme peut prêter à confusion, car ces zones, également appelées îlots, ne sont pas directement liées au climat, mais plutôt à l’occupation des sols. Il existe ainsi 17 catégories (ensembles compacts de tours, bâtiments bas à large emprise, espaces arborés clairsemés, etc.) permettant de diviser l’espace en zones où le comportement climatique est supposé homogène.
 
