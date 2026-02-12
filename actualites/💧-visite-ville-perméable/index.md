@@ -1,10 +1,11 @@
 ---
-title: 💧 Visite ville perméable
+title: Visite ville perméable
 draft: false
 publishDate: 2025-09-16T09:55:00
 layout: post
 author: Consortium IA.rbre
 summary: Christian Arlet, directeur la stratégie "Ville perméable" de la Métropole de Lyon, nous a accompagné en rive gauche du Rhône entre Confluence et l'hôtel de Métropole.
+image: "cover.jpg"
 ---
 
 **💧 Visite ville perméable**

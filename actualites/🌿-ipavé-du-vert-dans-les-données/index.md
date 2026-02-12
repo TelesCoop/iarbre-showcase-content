@@ -1,13 +1,12 @@
 ---
-title: '🌿 iPAVÉ :  du vert dans les données !'
+title: 'iPAVÉ : du vert dans les données !'
 draft: false
 publishDate: 2025-04-25T12:40:00
 layout: post
 author: Natacha Belaud pour Exo-Dev
-summary: Le projet d”inventaire du patrimoine végétal de voirie est lancé !
+summary: Le projet d"inventaire du patrimoine végétal de voirie est lancé !
+image: "cover.jpg"
 ---
-
-# 🌿 iPAVÉ :  du vert dans les données !
 
 _Porté par Jean Marie Rogel, iPAVÉ s'attaque à un défi de taille : cartographier de manière intelligente le patrimoine végétal de la voirie métropolitaine._
 
@@ -19,9 +18,9 @@ Derrière ce besoin, une demande mixte : côté IArbre bien sûr, mais aussi cô
 
 Actuellement notre avancée se concentre sur :
 
-- l’analyse des données existantes déjà disponibles
+- l'analyse des données existantes déjà disponibles
 - la définition de lieux d'intérêt du territoire
-- la préparation d’un atelier multi-acteurs pour creuser les premières pistes
+- la préparation d'un atelier multi-acteurs pour creuser les premières pistes
 
 Une démarche ouverte, vivante, et que vous pouvez suivre pas à pas ici :
 

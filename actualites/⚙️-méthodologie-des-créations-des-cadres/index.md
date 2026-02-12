@@ -1,10 +1,11 @@
 ---
-title: ⚙️ Méthodologie des créations des calques
+title: Méthodologie des créations des calques
 draft: false
 publishDate: 2025-10-16T16:17:00
 layout: post
 author: L'équipe IA.rbre
 summary: Quelles données et méthodes pour produire les différentes calques ?
+image: "cover.jpg"
 ---
 
 **Méthodologie des créations des calques**

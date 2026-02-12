@@ -1,10 +1,11 @@
 ---
-title: 🌱 Végétation urbaine, pourquoi les arbres ne poussent pas n'importe où ?
+title: Végétation urbaine, pourquoi les arbres ne poussent pas n'importe où ?
 draft: true
 publishDate: 2025-03-25T08:40:00
 layout: post
 author: L'Équipe IArbre
 summary: 'Avant de planter, il faut comprendre. Sous nos pieds, ce ne sont pas que des cailloux et de la terre : ce sont des données.'
+image: "cover.jpg"
 ---
 # 🌱Comprendre la plantabilité, peut-on vraiment planter un arbre ici ?
 
