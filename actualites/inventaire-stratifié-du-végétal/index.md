@@ -5,9 +5,8 @@ publishDate: 2026-01-21T14:24:00
 layout: post
 author: Equipe IA.rbre
 summary: L'inventaire stratifié du végétal est un sujet structurant et il est maintenant disponible sur carte.iarbre.fr/vegetation !
+image: "cover.png"
 ---
-
-# 🌱 Inventaire stratifié du végétal
 
 ## L'origine de cet inventaire stratifié
 
