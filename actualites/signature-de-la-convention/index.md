@@ -7,8 +7,8 @@ author: Consortium IA·rbre
 summary: Le projet IA·rbre a célébré publiquement son lancement le 22 mai 2025 à l'Urban Lab au travers de la signature de la convention. Une matinée riche en démos, discours et échanges presse. Une belle étape franchie... et ce n'est que le début !
 image: "signature_convention.jpg"
 ---
-# 🌳 IA·rbre a pris racine... officiellement ! 🚀
 
+IA·rbre a pris racine... officiellement !
 Après des mois de travail en coulisses, le projet **IA·rbre** a été lancé publiquement en novembre 2024. Il était grand temps de le célébrer avec vous ! 🎉
 
 ![Signature la convention IA·rbre le 22 mai](signature_convention.jpg "De gauche à  droite : Bruno Bernard, Isabelle von Bueltzingsloewen, Camille Legeron, Maxime Tribolet et Agnès Sindou-Faurie")
