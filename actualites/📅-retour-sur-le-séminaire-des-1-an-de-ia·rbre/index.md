@@ -1,7 +1,7 @@
 ---
 title: 📅 Retour sur le séminaire des 1 an de  IA·rbre
 draft: false
-publishDate: 2026-02-19T11:08:00
+publishDate: 2026-02-19T10:00:00
 layout: post
 author: L'équipe IA·rbre
 summary: Le 29 janvier 2026 avait lieu un séminaire pour les 1 ans d' IA·rbre, l'occasion de faire le point sur les avancées et de faire des atelier pour recueillir les retours.
