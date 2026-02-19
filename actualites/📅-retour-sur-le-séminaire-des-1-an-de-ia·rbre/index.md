@@ -7,7 +7,7 @@ author: L'équipe IA·rbre
 summary: Le 29 janvier 2026 avait lieu un séminaire pour les 1 ans d' IA·rbre, l'occasion de faire le point sur les avancées et de faire des atelier pour recueillir les retours.
 ---
 
-Le 29 janvier, le séminaire marquant la fin de la première année de projet d’**IA·rbre** a marqué une étape clé pour notre plateforme open source dédiée à l’adaptation et à l’atténuation climatique. 
+Le 29 janvier, le séminaire marquant la fin de la première année de projet d’**IA·rbre** a marqué une étape clé pour notre plateforme open source dédiée à l’adaptation et à l’atténuation climatique.
 
 7 communes, plusieurs directions métropolitaines et des partenaires se sont réunis pour découvrir l’outil, échanger sur ses fonctionnalités et co-construire ses prochaines évolutions. Après une présentation globale de la démarche et de la plateforme, des **ateliers collaboratifs** ont permis de dégager des pistes prometteuses pour enrichir IA.rbre : nouvelles données, fonctionnalités ciblées, et améliorations ergonomiques.
 
