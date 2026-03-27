@@ -1,5 +1,5 @@
 ---
-title: Documentation technique du projet
+title: 📚 Documentation technique du projet
 draft: false
 publishDate: 2025-06-17T09:08:00
 layout: post

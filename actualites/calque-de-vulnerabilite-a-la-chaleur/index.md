@@ -1,5 +1,5 @@
 ---
-title: Calque de Vulnérabilité à la chaleur
+title: 🥵 Calque de Vulnérabilité à la chaleur
 draft: false
 publishDate: 2025-07-24T15:53:00
 layout: post

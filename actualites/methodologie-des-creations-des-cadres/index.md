@@ -1,5 +1,5 @@
 ---
-title: Méthodologie des créations des calques
+title: ⚙️ Méthodologie des créations des calques
 draft: false
 publishDate: 2025-10-16T16:17:00
 layout: post
