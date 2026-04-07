@@ -38,6 +38,9 @@ Notre approche s'appuie sur :
 
 Le projet est actuellement déployé sur la **Métropole de Lyon**, territoire d'expérimentation qui permet de tester et valider nos solutions avant leur généralisation à d'autres collectivités françaises.
 
+## Feuille de route 2026
+
+![Feuille de route 2026](/images/Roadmap.svg)
 ---
 
 *Le projet IA·rbre est soutenu par le plan France 2030 et financé par la Caisse des Dépôts.*
