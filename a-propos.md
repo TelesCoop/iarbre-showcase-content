@@ -7,6 +7,8 @@ description: En savoir plus sur le projet IA·rbre et ses objectifs
 
 # À propos du projet IA·rbre
 
+[Découvrez notre feuille de route pour 2026](#feuille-de-route-2026)
+
 ## Mission
 
 Le projet **IA·rbre** vise à enraciner la résilience climatique des territoires en cultivant les données. Notre mission est de fournir aux collectivités territoriales des outils innovants pour optimiser la résilience des territoires dans le contexte du changement climatique à l'aide de la végétalisation, déimperméabilisation et réduction des îlots de chaleur.
